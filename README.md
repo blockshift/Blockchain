@@ -12,3 +12,5 @@ Bitcoin Explanation for 5 year old kid (https://medium.freecodecamp.org/explain-
 Cardano Explantory video (https://www.youtube.com/watch?v=Do8rHvr65ZA)
 
 Cardano all research papers (https://iohk.io/research/papers/)
+
+Blockchain in Health Care (http://dci.mit.edu/assets/papers/eckblaw.pdf)
